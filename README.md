@@ -1,5 +1,18 @@
 ### Hi there 👋
 
+🔭 I’m currently working [@lafourchette](https://github.com/lafourchette) in Paris and having fun 🍔🍽️🥖🥐
+
+💬 Ask me about:
+- Automation
+- Test design & test procedure development
+- Tools: Selenium, Appium, AWS, Docker, ELK Stack, HP QTP & UFT, SoapUI, Ranorex
+- Java, C# & PHP
+
+🌱 I’m currently playing with Container Orchestration 
+
+📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/mpolaru/) or [Twitter](https://twitter.com/Olaru_MP)
+
+🟪 Also take a look at [my ugly website that I built in 2016 and haven't updated since](http://marcelolaru.com/) 
 <!--
 **marcel-olaru/marcel-olaru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
