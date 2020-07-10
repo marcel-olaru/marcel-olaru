@@ -3,7 +3,7 @@
 🔭 I’m currently working [@lafourchette](https://github.com/lafourchette) in Paris and having fun 🍔🍽️🥖🥐
 
 💬 Ask me about:
-- Automation
+- Shift Left/ Right Testing & Automation
 - Test design & test procedure development
 - Tools: Selenium, Appium, Jenkins, AWS, Docker, ELK Stack, HP QTP & UFT, SoapUI, Ranorex
 - Java, C# & PHP
