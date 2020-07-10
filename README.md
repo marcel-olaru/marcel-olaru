@@ -8,7 +8,7 @@
 - Tools: Selenium, Appium, AWS, Docker, ELK Stack, HP QTP & UFT, SoapUI, Ranorex
 - Java, C# & PHP
 
-🌱 I’m currently playing with Container Orchestration 
+🌱 I’m currently playing with Container Orchestration and in my spare time I'm trying to figure out how to 3D print stuff 
 
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/mpolaru/) or [Twitter](https://twitter.com/Olaru_MP)
 
