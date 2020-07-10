@@ -12,11 +12,11 @@
 
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/mpolaru/) or [Twitter](https://twitter.com/Olaru_MP)
 
-🟪 Also take a look at [my ugly website that I built in 2016 and haven't updated since](http://marcelolaru.com/) 
+🟪 Take a look at [my ugly personal website that I built in 2016 and haven't updated since](http://marcelolaru.com/) 
 
 ⚡ Fun fact: 
 - I eat all my vegetables 🥒.
-- Only fruit that should be on Pizza is tomatoes 🍅, also pineapple :pineapple: on Pizza 🍕 should be considered a crime by the Geneve convention.
+- Only fruit that should be on Pizza is tomatoes 🍅, pineapple :pineapple: on Pizza 🍕 should be considered a crime by the Geneve convention.
 
 <!--
 **marcel-olaru/marcel-olaru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
