@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🔭 I’m currently working [@lafourchette](https://github.com/lafourchette) in Paris and having fun 🍔🍽️🥖🥐
+🔭 Qualified nerd currently working and having fun [@lafourchette/theFork](https://github.com/lafourchette) in Paris 🍔🍽️🥖🥐
 
 💬 Ask me about:
 - Shift Left/ Right Testing & Automation
