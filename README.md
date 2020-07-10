@@ -17,7 +17,7 @@
 ⚡ Fun fact: 
 - I eat all my vegetables 🥒.
 - Only fruit that should be on Pizza is tomatoes 🍅, pineapple :pineapple: on Pizza 🍕 should be considered a crime by the Geneve convention.
-- Persons that viewed this page -> ![Hits](https://hitcounter.pythonanywhere.com/nocount/tag.svg?url=https%3A%2F%2Fgithub.com%2Fmarcel-olaru%2Fmarcel-olaru)
+- Persons that viewed this page -> <img src="https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Fmarcel-olaru" alt="Hits">
 
 <!--
 **marcel-olaru/marcel-olaru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
