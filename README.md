@@ -12,7 +12,7 @@
 
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/mpolaru/) or [Twitter](https://twitter.com/Olaru_MP)
 
-🟪 Take a look at ~~[my ugly personal website that I built in 2016 and haven't updated since]~~ [i've updated my site since](http://marcelolaru.com/)
+🟪 Take a look at [my ugly personal website that I built in 2016 and ~~haven't updated since~~ I've updated my site](http://marcelolaru.com/)
 
 ⚡ Fun fact: 
 - I eat all my vegetables 🥒.
