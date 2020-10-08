@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🔭 Qualified nerd currently working and having fun [@lafourchette/theFork](https://github.com/lafourchette) in Paris 🍔🍽️🥖🥐
+🔭 Qualified nerd currently working as an Software Automation Engineer and having fun [@lafourchette/theFork](https://github.com/lafourchette) in Paris 🍔🍽️🥖🥐
 
 💬 Ask me about:
 - Shift Left/ Right Testing & Automation
