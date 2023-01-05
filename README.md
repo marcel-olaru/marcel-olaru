@@ -5,8 +5,8 @@
 💬 Ask me about:
 - Shift Left/ Right Testing & Automation
 - Test design & test procedure development
-- Tools: Selenium, Appium, Jenkins, AWS, Docker, ELK Stack, HP QTP & UFT, SoapUI, Ranorex
-- Java, C# & PHP
+- Tools: Selenium, Appium, Postman, Jenkins/CircleCI, AWS, Docker, ELK Stack/Datadog, HP QTP & UFT, SoapUI, Ranorex
+- Python, PHP, Java & C# 
 
 🌱 I’m playing with Container Orchestration and in my spare time trying to figure out how to 🧵 3D print stuff 
 
