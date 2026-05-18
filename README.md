@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🔭 Qualified nerd currently working as an Software Automation Engineer and having fun in Paris 🇫🇷🗼🍔🍽️🥖🥐
+🔭 Qualified nerd currently working as an Software Automation Engineer and having fun in Paris 🇫🇷🗼🍔🍽️🥖🥐 [@BackMarket](www.backmarket.com)
 
 💬 Ask me about:
 - Shift Left/ Right Testing & Automation
